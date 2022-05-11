@@ -1,6 +1,6 @@
 <?php
-echo "Welcome <b><code>" . $_SESSION['username'] . "</code></b>";
-echo date ("<p>F j, Y, g:i a</p>");      
+echo "Welcome Happy Shopping <b><code>" . $_SESSION['username'] . "</code></b>";
+  
 ?>
 
 <!--  I honor Parkland's core values by affirming that I have 

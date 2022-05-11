@@ -15,9 +15,9 @@ validate_or_bounce();
 </head>
 <body>
 <?php readfile("lib/header.html"); ?>
-
-<p><h2>All of our clothing is excusive and is definitely eye catcher in public!</p></h2><!-- Content goes here -->
-
+<center>
+<p><h2><font color = "red" face = "Comic sans MS">All of our clothing is exclusive and is definitely eye catcher!</font></p></h2>
+</center>
 <?php require("lib/footer.php"); ?>
 </body>
 </html>
